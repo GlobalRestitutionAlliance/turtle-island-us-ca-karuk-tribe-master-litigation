@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+KARUK+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+KARUK+TRIBE",
+  "title": "Federal Register - CA KARUK TRIBE",
+  "fetched_at": "2026-11-23T17:56:57.996599Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 226218,
+  "sha256": "c9f2fa87dfc8ee8c1afdd21d9a02259b9bf2aa820033276921f2ad299d6c45d0",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
